@@ -1,7 +1,7 @@
 public class Iobject extends Gobject {
   Item pickUp;
   
-  void create(String name, SubstanceInt [] madeOf, RenderClass render) {
+  void create(String n, SubstanceInt [] mo, RenderClass r) {
     
   }
 }
