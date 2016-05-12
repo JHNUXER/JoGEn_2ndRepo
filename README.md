@@ -1,2 +1,2 @@
-# JoGEn_2ndRepo
-JoGEn
+# JoGEn
+John Game Engine
