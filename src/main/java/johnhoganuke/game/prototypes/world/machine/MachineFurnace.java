@@ -1,8 +1,8 @@
-package game.prototypes.world.machine;
+package johnhoganuke.game.prototypes.world.machine;
 
-import game.prototypes.world.Machine;
-import game.prototypes.ItemInt;
-import game.prototypes.Recipe;
+import johnhoganuke.game.prototypes.world.Machine;
+import johnhoganuke.game.prototypes.ItemInt;
+import johnhoganuke.game.prototypes.Recipe;
 
 public class Machine_BasicFurnace extends Machine {   // Basic Smelting, 1 item at a time.
   name = "Basic Furnace";
